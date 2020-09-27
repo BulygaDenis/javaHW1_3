@@ -5,16 +5,17 @@
 * Сумма перевода - пятьсот миллионов рублей (Int);
 * Переменная для хранения итогового значения - тип int.
 
-## Unit test "Запуск кода"
+## Описание тестов: 
+* Unit test "Запуск кода"
 
 ## В результате тестирования выявлены следующие дефекты:
-![](https://raw.githubusercontent.com/BulygaDenis/javaHW1_3/master/1.4.png)
+![Ссылка на Issues](https://github.com/BulygaDenis/javaHW1_3/issues/1)
 
 
 ## Результаты
 
 1. 0/1
-2. [issues #1](https://github.com/BulygaDenis/javaHW1_3/issues/1)
+2. [Ссылка на баг-репорт](https://github.com/BulygaDenis/javaHW1_3/issues/1)
 
 
 **Ожидаемый результат:**
