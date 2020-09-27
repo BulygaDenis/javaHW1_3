@@ -9,7 +9,7 @@
 * Unit test "Запуск кода"
 
 ## В результате тестирования выявлены следующие дефекты:
-![Ссылка на Issues](https://github.com/BulygaDenis/javaHW1_3/issues/1)
+[Ссылка на Issues](https://github.com/BulygaDenis/javaHW1_3/issues/1)
 
 
 ## Результаты
